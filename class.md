@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Katish-Kondr]  
+- Certification: [Katish – Version Control with Git (Coursera)]  
 
 ## Instructions
 Please replace the placeholders with your details:
